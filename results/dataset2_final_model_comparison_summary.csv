@@ -1,2 +1,0 @@
-Model,Best Feature Set,Best Params,Accuracy,F1-Score (Macro),Precision (Macro),Recall (Macro)
-MLP,dataset2_hog16x16_lbp12p2r,"{'classifier__alpha': 0.0001, 'classifier__hidden_layer_sizes': (100,)}",0.7083333333333334,0.7083850483961898,0.7115664979725722,0.7091224747474747
