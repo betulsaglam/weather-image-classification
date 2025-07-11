@@ -1,0 +1,24 @@
+{
+    "dataset1": {
+        "SVM": {
+            "best_feature_set": "dataset1_hog16x16_lbp12p2r"
+        },
+        "LGBM": {
+            "best_feature_set": "dataset1_hog16x16_lbp8p1r"
+        },
+        "MLP": {
+            "best_feature_set": "dataset1_hog16x16_lbp12p2r"
+        }
+    },
+    "dataset2": {
+        "SVM": {
+            "best_feature_set": "dataset2_hog16x16_lbp12p2r"
+        },
+        "LGBM": {
+            "best_feature_set": "dataset2_hog16x16_lbp12p2r"
+        },
+        "MLP": {
+            "best_feature_set": "dataset2_hog16x16_lbp12p2r"
+        }
+    }
+}
