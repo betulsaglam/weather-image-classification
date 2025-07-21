@@ -8,3 +8,4 @@ joblib
 nbformat
 seaborn
 lightgbm
+tensorflow
