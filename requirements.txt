@@ -9,3 +9,4 @@ nbformat
 seaborn
 lightgbm
 tensorflow
+ipynb
